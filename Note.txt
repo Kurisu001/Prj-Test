@@ -1,3 +1,0 @@
-#basic command of git
-
-#Git branch 
